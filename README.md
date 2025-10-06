@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Azizbek Adizov  
 
-🎮 **Beginner Unity Developer** | 💻 **AIML Student** | 🌍 Based in Uzbekistan  
+🧠 **Unity Developer (Beginner)** | 🎓 **AIML Student** | 🌍 Uzbekistan
 
 I'm currently studying **Artificial Intelligence and Machine Learning** at **Acharya University**,  
 and recently started learning **game development** using **Unity** and **C#**.  
@@ -39,6 +39,10 @@ I’m passionate about interactive experiences and hope to combine AI and game d
 
 ### 📊 GitHub Stats
 ![Adizoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adizoff&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ Currently working on: my second course project (VR-based Unity game)
 
 ---
 

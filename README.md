@@ -1,50 +1,33 @@
-# 👋 Hi there, I'm Azizbek Adizov  
+# Hi, I'm Azizbek Adizov
 
-🧠 **Unity Developer (Beginner)** | 🎓 **AIML Student** | 🌍 Uzbekistan
+**Unity game developer · AI & Machine Learning student · Bukhara, Uzbekistan**
 
-I'm currently studying **Artificial Intelligence and Machine Learning** at **Acharya University**,  
-and recently started learning **game development** using **Unity** and **C#**.  
-I’m passionate about interactive experiences and hope to combine AI and game design in the future.
+I make games with simple controls and physical interactions. I'm learning through building, playtesting, and improving projects, with a focus on Unity, C#, and browser games.
 
----
+## Play my latest game
 
-### 🧠 About Me
-- 🎓 **AIML Student** at Acharya University  
-- 🚀 Currently taking the **GameDevHQ Unity Developer Bootcamp**  
-- 🧩 Just finished my **first 2D Unity project (Space Shooter)**  
-- 💡 Learning step by step — one project at a time  
+[![Orbital Ram — Hold. Release. Impact.](assets/orbital-ram-banner.png)](https://adizoff.itch.io/orbital-ram)
 
----
+**Orbital Ram** is a one-button arena action game about timing, momentum, and collisions. Hold to orbit around an anchor, then release to launch your robot ball into mechanical enemies.
 
-### 🛠️ Skills & Tools (so far)
-- **Languages:** C# (beginner), Python (basic for AI/ML)  
-- **Game Engine:** Unity (2D fundamentals, beginner level)  
-- **Tools:** Git, GitHub, Visual Studio, FL Studio (for sound experiments)  
+- Endless enemy waves and five bosses with different attacks.
+- Permanent upgrades and 15 achievements.
+- Free to play in desktop and mobile browsers; public playtesting is open.
 
----
+**[Play Orbital Ram on itch.io →](https://adizoff.itch.io/orbital-ram)**
 
-### 📈 Current Focus
-- 🎯 Continue learning Unity
-- 🧠 Improve understanding of C# and game architecture  
-- 🕹️ Experiment with blending AI and gameplay in small projects  
+I'd love to hear which wave you reached and how the controls felt. You can leave feedback on the game page.
 
----
+Developed with AI assistance; music generated with Suno. Full development disclosure is on the game page. The source repository remains private.
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adizoff)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pixelexpl0rer)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adizoff99@gmail.com)
+## Learning & projects
 
----
+I'm studying Artificial Intelligence and Machine Learning at **Acharya University** while developing my game development skills.
 
-### 📊 GitHub Stats
-![Adizoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adizoff&show_icons=true&theme=tokyonight)
+- **[Space Shooter — course project](https://github.com/Adizoff/SpaceShooter-Course):** my first Unity project, built through GameDevHQ to learn 2D movement, spawning, collisions, and C# gameplay scripting.
+- **Current focus:** readable controls, physics-based gameplay, boss encounters, and WebGL delivery across desktop and mobile.
+- **Tools I work with:** Unity, C#, Blender, Git, and GitHub. I also study Python for AI/ML.
 
----
+## Find me
 
-⭐ Currently working on: my second course project (VR-based Unity game)
-
----
-
-> “Learning never stops — especially when your goal is to build worlds from code.”  
-> — Azizbek Adizov
+[itch.io](https://adizoff.itch.io) · [LinkedIn](https://www.linkedin.com/in/adizoff) · [Instagram](https://www.instagram.com/pixelexpl0rer) · [Email](mailto:adizoff99@gmail.com)
